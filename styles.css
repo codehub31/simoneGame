@@ -1,0 +1,61 @@
+body {
+  text-align: center;
+  background-image: linear-gradient(#2F4F4F, #008080,#5F9EA0);
+
+}
+
+#level-title {
+  font-family:  cursive;
+  font-size: 2.5rem;
+  margin:  2%;
+  color: #FEF2BF;
+}
+
+.container {
+  display: block;
+  width: 80%;
+  margin: auto;
+  margin-top: -20px;
+
+}
+ ////
+
+
+.game-over {
+background-image: linear-gradient(#F5350B,#9F2C14 );
+  opacity: 0.8;
+}
+
+.red {
+  background-color: red;
+}
+
+.green {
+  background-color:green;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.yellow {
+  background-color: yellow;
+
+}
+.purple{
+  background-color: purple;
+}
+.pink{
+  background-color:#FF8C00;
+}
+footer {
+  color: #DBEDF3;
+   font-family:  cursive;
+
+  height: 150px;
+  font-size: 2rem;
+}
+.pressed {
+  box-shadow: 0 0 20px white;
+  background-color: grey;
+}
