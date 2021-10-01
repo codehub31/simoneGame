@@ -18,7 +18,7 @@ body {
   margin-top: -20px;
 
 }
- ////
+ 
 .btn {
   margin: 25px;
   display: inline-block;
@@ -67,7 +67,7 @@ footer {
   color: #DBEDF3;
    font-family:  cursive;
 
-  height: 150px;
+  height: 250px;
   font-size: 2rem;
 }
 .pressed {
